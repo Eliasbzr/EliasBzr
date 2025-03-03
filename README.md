@@ -1,10 +1,10 @@
 
 # Olá, Sou Elias 👋
 
-* Sou formado em Administração de Empresas pela Faculdade Eniac; 
-* Também tenho formação em Ciência de dados pela Faculdade Estácio de Sá; 
-* E atualmente curso pós graduação em Big Data, Analytics e Bi pela Faculdade Estácio de Sá
-
+* Sou bacharel em administração de empresas pela Faculdade Eniac formado em 2;15 
+* Sou tecnologo em Ciência de dados pela Faculdade Estácio de Santa Catarina em 2023; 
+* E pós graduação em Big Data, Analytics e Bi pela Faculdade Estácio de Santa Catarina em 2024
+  
 ## 🎖 Ferramentas e Tecnologias
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="60" height="60" />  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="60" height="60" />  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="60" height="60" />
