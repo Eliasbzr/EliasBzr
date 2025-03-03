@@ -1,7 +1,7 @@
 
 # Olá, Sou Elias 👋
 
-* Sou bacharel em administração de empresas pela Faculdade Eniac formado em 2;15 
+* Sou bacharel em administração de empresas pela Faculdade Eniac formado em 2015 
 * Sou tecnologo em Ciência de dados pela Faculdade Estácio de Santa Catarina em 2023; 
 * E pós graduado em Big Data, Analytics e Bi pela Faculdade Estácio de Santa Catarina em 2024
   
