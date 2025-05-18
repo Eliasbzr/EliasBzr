@@ -13,6 +13,7 @@
 * SAS
 * Power BI
 * DAX
+* Databricks
   
 E certificação Scrum Master em projetos
 
