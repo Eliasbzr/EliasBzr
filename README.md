@@ -4,6 +4,22 @@
 * Sou bacharel em administração de empresas pela Faculdade Eniac formado em 2015 
 * Sou tecnologo em Ciência de dados pela Faculdade Estácio de Santa Catarina em 2023; 
 * E pós graduado em Big Data, Analytics e Bi pela Faculdade Estácio de Santa Catarina em 2024
+
+## 👨‍🎓 Atualmente estou aprendendo sobre
+1. [Machine Learning e Data Science com Python de A a Z](#)
+2. [Séries Temporais e Análises Preditivas com Python](#)
+3. [Machine Learning com Spark e PySpark](#)
+4. [Formação Spark com PySpark](#)
+
+### 🧠 Progresso por Fase
+
+| Fase | Curso | Status |
+|------|-------|--------|
+| Fase 1 | Machine Learning com Python | ✅ Em andamento |
+| Fase 2 | Séries Temporais | ⏳ Em breve |
+| Fase 3 | ML com PySpark | ⏳ Em breve |
+| Fase 4 | Formação Spark | ⏳ Em breve |
+
   
 ## 🎖 Ferramentas e Tecnologias
 
@@ -17,11 +33,6 @@
   
 E certificação Scrum Master em projetos
 
-## 👨‍🎓 Atualmente estou aprendendo sobre
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="60" height="60" />  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="60" height="60"/>
-          
-          
 
 ## 📫 Entre em contato comigo
 <div>
